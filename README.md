@@ -1,5 +1,4 @@
- Com certeza! Aqui está um modelo de README mais profissional e estruturado para o seu projeto de Sistema Escolar Fullstack, utilizando a informação fornecida.
-O uso de emojis e uma formatação clara ajuda a tornar o documento mais agradável e fácil de ler.
+
 📚 Sistema Escolar Fullstack
 Uma aplicação de exemplo completa (fullstack) para gerenciamento escolar, desenvolvida com tecnologias modernas e tipagem robusta para demonstrar a construção de sistemas escaláveis e de fácil manutenção.
 ✨ Visão Geral do Projeto
